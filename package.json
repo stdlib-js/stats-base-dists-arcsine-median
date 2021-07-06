@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-arcsine-median",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Arcsine distribution median.",
   "license": "Apache-2.0",
   "author": {
