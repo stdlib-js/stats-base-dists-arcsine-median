@@ -69,7 +69,7 @@ where `a` is the minimum support and `b` is the maximum support.
 ## Usage
 
 ```javascript
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-median@v0.2.0-deno/mod.js';
 ```
 
 #### median( a, b )
@@ -129,7 +129,7 @@ y = median( 3.0, 3.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-median@deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-median@v0.2.0-deno/mod.js';
 
 var a;
 var b;
