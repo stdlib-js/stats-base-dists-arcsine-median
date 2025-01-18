@@ -38,6 +38,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@stdlib/array-float64": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
