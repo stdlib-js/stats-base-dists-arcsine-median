@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-21)
+## Unreleased (2025-04-03)
+
+<section class="features">
+
+### Features
+
+-   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - **feat:** add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066) _(by pranav-1720, Philipp Burckhardt, stdlib-bot)_
 -   [`6ff59dd`](https://github.com/stdlib-js/stdlib/commit/6ff59dd9c1a20e141232e8081ca8606c87c73989) - **docs:** replace manual `for` loop in examples [(#6249)](https://github.com/stdlib-js/stdlib/pull/6249) _(by Karan Anand)_
 -   [`fdd6251`](https://github.com/stdlib-js/stdlib/commit/fdd6251ca208c5aceff5d6a2929788ed2cfbc2d6) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4798)](https://github.com/stdlib-js/stdlib/pull/4798) _(by Karan Anand)_
 -   [`727d50a`](https://github.com/stdlib-js/stdlib/commit/727d50a761a91df5259078eed98b8a4f9b2e4c52) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4744)](https://github.com/stdlib-js/stdlib/pull/4744) _(by Karan Anand)_
@@ -26,9 +37,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   pranav-1720
 
 </section>
 
