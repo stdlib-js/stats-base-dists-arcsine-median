@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-03)
+## Unreleased (2025-04-04)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`846b05e`](https://github.com/stdlib-js/stdlib/commit/846b05e0bea14ee9931044b529f071bd8c20879b) - **chore:** clean-up _(by Athan Reines)_
 -   [`e97e770`](https://github.com/stdlib-js/stdlib/commit/e97e770013a9963c5259ab18ecdd48e5730a6e3b) - **chore:** fix addon and configuration _(by Athan Reines)_
 -   [`e976bd1`](https://github.com/stdlib-js/stdlib/commit/e976bd17f51cd6173298cf74a151f9bdae4c1242) - **chore:** clean-up _(by Athan Reines)_
 -   [`c487a89`](https://github.com/stdlib-js/stdlib/commit/c487a8949885d2867681ba09837077d40423cbda) - **feat:** add C implementation for `stats/base/dists/arcsine/median` [(#4066)](https://github.com/stdlib-js/stdlib/pull/4066) _(by pranav-1720, Philipp Burckhardt, stdlib-bot)_
