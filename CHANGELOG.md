@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-30)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`846b05e`](https://github.com/stdlib-js/stdlib/commit/846b05e0bea14ee9931044b529f071bd8c20879b) - **chore:** clean-up _(by Athan Reines)_
 -   [`e97e770`](https://github.com/stdlib-js/stdlib/commit/e97e770013a9963c5259ab18ecdd48e5730a6e3b) - **chore:** fix addon and configuration _(by Athan Reines)_
 -   [`e976bd1`](https://github.com/stdlib-js/stdlib/commit/e976bd17f51cd6173298cf74a151f9bdae4c1242) - **chore:** clean-up _(by Athan Reines)_
