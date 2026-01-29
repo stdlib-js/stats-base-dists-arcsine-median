@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-29)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`111fc36`](https://github.com/stdlib-js/stdlib/commit/111fc36035d3cc5eca9cd60a26c82f030636d583) - **bench:** update random value generation for `stats/base/dists/arcsine` [(#9953)](https://github.com/stdlib-js/stdlib/pull/9953) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-25)
