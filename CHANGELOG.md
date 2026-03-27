@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-16)
+## Unreleased (2026-03-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8448f5a`](https://github.com/stdlib-js/stdlib/commit/8448f5a44bad7e305d50ac9e92ba195bac863389) - **chore:** ensure consistent use of semicolons [(#11170)](https://github.com/stdlib-js/stdlib/pull/11170) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
